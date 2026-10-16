@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/fluffyuncle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fluffyuncle" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24857409/fluffydaddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24857409/fluffydaddy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24857409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24857409/fluffydaddy" height="30" width="40" /></a>
 <a href="https://youtube.com/@fluffyuncle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fluffyuncle" height="30" width="40" /></a>
 <a href="https://leetcode.com/fluffyuncle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fluffyuncle" height="30" width="40" /></a>
 <a href="https://discord.gg/fluffyuncle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fluffyuncle" height="30" width="40" /></a>
