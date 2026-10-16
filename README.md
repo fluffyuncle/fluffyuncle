@@ -2,10 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fluffyuncle&label=Profile views&color=0e75b6&style=flat" alt="fluffyuncle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluffyuncle" alt="fluffyuncle" /></a> </p>
-
 - 📫 How to reach me **fluffyuncle@proton.me**
 
 <h3 align="left">Connect with me:</h3>
